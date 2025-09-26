@@ -27,7 +27,7 @@
    ```bash
    cd Inventory_Management_Tkinter
    ```
-3.فایل اصلی را اجرا کنید:
+3. فایل اصلی را اجرا کنید:
    ```bash
    python main.py
    ```
@@ -54,11 +54,11 @@ A simple desktop application to manage store inventory with a graphical user int
    ```bash
    git clone https://github.com/azadzirak/Inventory_Management_Tkinter.git
    ```
-3. Navigate to the project folder:
+2. Navigate to the project folder:
    ```bash
    cd Inventory_Management_Tkinter
    ```
-5. Run the main file:
+3. Run the main file:
    ```bash
    python main.py
    ```
