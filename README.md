@@ -31,9 +31,9 @@
    ```bash
    python main.py
    ```
-   
 
-این پروژه صرفاً برای اهداف آموزشی ایجاد شده است.
+این پروژه برای اهداف آموزشی ایجاد شده است.
+
 ## English Version
 
 A simple desktop application to manage store inventory with a graphical user interface built using Tkinter.
